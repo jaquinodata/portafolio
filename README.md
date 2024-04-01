@@ -1,4 +1,9 @@
-# portafolio
+<<<<<<< HEAD
+Contenido de la versión local...
+=======
+Contenido de la versión remota...
+>>>>>>> ce93bfb9a58bc836608501ff07f9cd1dfc44a093
+portafolio
 
 Actualización de portafolio-Jorge Luis Aquino Olmos
 
